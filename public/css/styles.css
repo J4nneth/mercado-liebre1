@@ -20,11 +20,11 @@ p{
 div.top-header{
     display: flex;
     flex-wrap: wrap;
-    padding: 5%;
+    padding: 0%;
 }
 
 header div.top-header p{
-    width: 100%;
+    width: 60%;
     text-align: center;
     margin-top: 10px;
 }
@@ -35,7 +35,7 @@ header{
 
 header div.logo,
 header .form{
-    width: 50%;
+    width: 40%;
 }
 
 header div.logo{
